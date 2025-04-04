@@ -44,11 +44,11 @@ Saveetha Hub is an all-in-one academic companion designed to streamline student 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ComradeMohan/saveethahub.git
+   [git clone https://github.com/ComradeMohan/saveethahub.git](https://github.com/KALYANMP/studenthub2.git)
    ```
 2. Navigate to the project directory:
    ```bash
-   cd saveethahub
+   cd studenthub2
    ```
 3. Install dependencies:
    ```bash
