@@ -1,4 +1,4 @@
-# Saveetha Hub
+# Student Hub
 
 
 Saveetha Hub is an all-in-one academic companion designed to streamline student life. From CGPA calculations to attendance tracking and skill development courses, this platform provides essential tools for academic success.
